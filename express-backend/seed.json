@@ -1,0 +1,13 @@
+{
+  "recipes": [
+    {
+      "name": "Bread",
+      "ingredients": ["500 g Flour", "500 ml Water", "1 pkt Yeast" ]
+    },
+    {
+      "name": "Milkshake",
+      "ingredients": ["500 ml Milk", "4 Scoops Ice-cream"] 
+    }
+  ]
+
+}
